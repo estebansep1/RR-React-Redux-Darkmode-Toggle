@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 function App() {
   
   return (
-    <div style={{ backgroundColor: 'white', color: 'black' }} className="App">
+    <div style={{ backgroundColor: 'white', color: 'white' }} className="App">
       <Nav />
       <ContentWrapper />
       <Footer />
